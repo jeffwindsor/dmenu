@@ -5,6 +5,9 @@
 dmenu
 stest
 
+*.orig
+*.rej
+
 ### C++ ###
 # Prerequisites
 *.d
