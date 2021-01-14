@@ -14,8 +14,8 @@ static int min_width                   = 500;
 /* -h option; minimum height of a menu line */
 static unsigned int lineheight         = 0;
 static unsigned int min_lineheight     = 8;
-/* Size of the window border */
-static const unsigned int border_width = 5;
+/* -bw Size of the window border */
+static const unsigned int border_width = 0;
 
 /* -fn option overrides fonts[0]; default X11 font or font set */
 static const char *fonts[] = {
